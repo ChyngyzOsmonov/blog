@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2aec285-7628-4ced-9ae6-38faa0c65fe1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/chapter6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_pipenv" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunManager">
@@ -88,10 +86,23 @@
       <option name="presentableId" value="Default" />
       <updated>1576651201663</updated>
       <workItem from="1576651204265" duration="10436000" />
+      <workItem from="1576670760778" duration="10294000" />
+      <workItem from="1576741100182" duration="6013000" />
+      <workItem from="1577189925366" duration="1857000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="130" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577193231106">
+      <screen x="0" y="25" width="1366" height="696" />
+    </state>
+    <state x="466" y="130" width="424" height="484" key="FileChooserDialogImpl/0.25.1366.696@0.25.1366.696" timestamp="1577193231106" />
+    <state x="366" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1576741123533">
+      <screen x="0" y="25" width="1366" height="696" />
+    </state>
+    <state x="366" y="199" key="com.intellij.ide.util.TipDialog/0.25.1366.696@0.25.1366.696" timestamp="1576741123533" />
   </component>
 </project>
